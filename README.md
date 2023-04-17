@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# The Dojo || A Project Management Application
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
